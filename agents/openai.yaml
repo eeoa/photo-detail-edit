@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片编辑与细节保真"
+  short_description: "先按提示词编辑照片，再学习局部 RGB 变换并应用到原图，保留可靠细节与目标光影"
+  default_prompt: "使用 $photo-detail-edit 处理我提供的照片：净化背景并调整为杂志摄影风格，保留真实人物细节。"
